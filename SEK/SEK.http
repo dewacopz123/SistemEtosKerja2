@@ -1,0 +1,6 @@
+@SEK_HostAddress = http://localhost:5095
+
+GET {{SEK_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
