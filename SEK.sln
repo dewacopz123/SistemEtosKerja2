@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SEK", "SEK\SEK.csproj", "{C
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibrary1", "ClassLibrary1\ClassLibrary1.csproj", "{47CBD686-FEC6-4080-AC06-070C70CF348F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SEKConsole", "SEKConsole\SEKConsole.csproj", "{0C57C37C-0E7D-4D1B-BD17-D4E9591F92C9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{47CBD686-FEC6-4080-AC06-070C70CF348F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{47CBD686-FEC6-4080-AC06-070C70CF348F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{47CBD686-FEC6-4080-AC06-070C70CF348F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C57C37C-0E7D-4D1B-BD17-D4E9591F92C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C57C37C-0E7D-4D1B-BD17-D4E9591F92C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C57C37C-0E7D-4D1B-BD17-D4E9591F92C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C57C37C-0E7D-4D1B-BD17-D4E9591F92C9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
